@@ -1,5 +1,5 @@
 # genesis_add_menu
-#Adding a third menu on genesis sample theme.
+# Adding a third menu on genesis sample theme.
 ___  
 
 I have this project that I have been working on and I need to add a menu which must be floating on the left of the header.   
@@ -16,7 +16,7 @@ So, I made an approach on the first portion/section of the code at the genesis_a
 UPDATE: Sridhar's tutorial on this just got updated. I think his has better approach. Check it [here](https://sridharkatakam.com/custom-navigation-theme-location-in-genesis/).
 
 
-##Approach:  
+## Approach:  
 ___  
 
 1. Register your custom nav menu.
