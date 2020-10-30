@@ -1,0 +1,22 @@
+/* -- left menu style --
+*
+*
+* -- add style to the additional menu you add. 
+*
+*
+*/
+nav.nav-third-menu.genesis-responsive-menu {
+		display: flex;
+		padding-left: 20px;
+}
+
+ul#menu-left-header-menu a{
+		padding-left: 15px;
+		padding-right:15px;
+		border-radius: 5px;
+}
+
+ul#menu-main-menu a{
+		border-radius: 5px;
+}
+/* --  END left menu style -- */
